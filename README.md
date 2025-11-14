@@ -4,7 +4,7 @@ This is a **learning repository** containing notebooks and scripts for building 
 
 **Disclaimer:** I do **not** claim any rights to the core ideas or code structures implemented here. Much of the code is based on (or inspired by) the excellent *Neural Networks from Scratch* series by **Sentdex**.  
 You can find the full playlist here:  
-👉 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+👉 https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
 
 ## Contents
 - `NeuralNets_0.ipynb` – Introduction to neural networks  
